@@ -1,7 +1,7 @@
 ;;; glass-poem.el --- generate a post-modern/minimalist poem
 
 ;; (c) Copyright 2006 Evans Winner
-;; Author: Evans Winner <ego111@gmail.com>
+;; Author: Evans Winner <evans.winner@gmail.com>
 
 ;;; Commentary:
 
